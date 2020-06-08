@@ -5,7 +5,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Secretaria Ejecutiva SEPINNA</title>
+	<title>SEPINNA</title>
 	<meta content="width=device-width, initial-scale=1.0" name="viewport" >
 	<link rel="stylesheet" href="Css/margenes.css" type="text/css" />
 	<link rel="stylesheet" href="Css/bootstrap.min.css" type="text/css" />
