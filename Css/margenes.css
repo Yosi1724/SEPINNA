@@ -1,0 +1,140 @@
+#contenedor{
+  background: #22A2DA;
+  float: left;
+  padding: 10px;
+  color: black;
+  width: 350px;
+  height: 560px;
+  margin: 5px;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 25px;
+  background: white;
+  text-align: center;
+  opacity: 0.8;
+  border-radius: 10px;
+  border-right:  2px solid;
+  border-image-source: linear-gradient(45deg, rgb(25, 198, 236), rgb(233, 236, 25),rgb(184, 26, 119 ));
+  border-image-slice: 1;
+}
+
+#contenedor_lateral{
+  float: left;
+  padding: 10px;
+  color: black;
+  width: 900px;
+  height: 450px;
+  margin: 5px;
+  margin-top: 10px;
+  background: white;
+  text-align: center;
+  opacity: 0.8;
+  border-radius: 10px;
+}
+
+#contenedor_inicio{
+  float: left;
+  padding: 10px;
+  color: black;
+  width: 350px;
+  height: 150px;
+  margin: 5px;
+  margin-top: 10px;
+  margin-left: 40px;
+  margin-right: 25px;
+  background: white;
+  text-align: center;
+  opacity: 0.8;
+  border-radius: 10px;
+  border: 0.7px solid grey;
+}
+
+#contenedor_login{
+  background: #22A2DA;
+  float: left;
+  padding: 10px;
+  color: black;
+  width: 350px;
+  height: 560px;
+  margin: 5px;
+  background: white;
+  text-align: center;
+  opacity: 0.8;
+  border-radius: 10px;
+  border:  2px solid;
+  border-image-source: linear-gradient(45deg, rgb(25, 198, 236), rgb(233, 236, 25),rgb(184, 26, 119 ));
+  border-image-slice: 1;
+}
+
+#contenedor_registro{
+  background: #22A2DA;
+  float: left;
+  padding: 10px;
+  color: black;
+  width: 350px;
+  height: 560px;
+  margin: 5px;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 25px;
+  background: white;
+  text-align: center;
+  opacity: 0.8;
+  border-radius: 10px;
+  border-right:  2px solid;
+  border-image-source: linear-gradient(45deg, rgb(25, 198, 236), rgb(233, 236, 25),rgb(184, 26, 119 ));
+  border-image-slice: 1;
+}
+
+#contenedor_logout{
+  background: #22A2DA;
+  float: left;
+  padding: 10px;
+  color: black;
+  width: 350px;
+  height: 560px;
+  margin: 5px;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 25px;
+  background: white;
+  text-align: center;
+  opacity: 0.8;
+  border-radius: 10px;
+  border-right:  2px solid;
+  border-image-source: linear-gradient(45deg, rgb(25, 198, 236), rgb(233, 236, 25),rgb(184, 26, 119 ));
+  border-image-slice: 1;
+}
+.img {
+  width: 340px;
+  height: 90px;
+  margin: 10px;
+}
+
+
+.wrapper {
+    padding: 1.5rem 0;
+    filter: url('#goo');
+}
+
+
+.txt_post{
+  margin-top: -200px;
+  font-size: 15px;
+}
+
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  height: 40px;
+  margin-right: 3px;
+  width: 200px;
+  border-radius: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+

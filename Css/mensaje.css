@@ -1,0 +1,69 @@
+#contenedor{
+  float: left;
+  padding: 10px;
+  color: black;
+  width: 350px;
+  height: 560px;
+  margin: 5px;
+  margin-top: 10px;
+  margin-left: 40px;
+  margin-right: 25px;
+  background: white;
+  text-align: center;
+  opacity: 0.8;
+  border-radius: 10px;
+  border: 0.7px solid grey;
+}
+
+#contenedor_lateral{
+  float: left;
+  padding: 10px;
+  color: black;
+  width: 900px;
+  height: 450px;
+  margin: 5px;
+  margin-top: 10px;
+  background: white;
+  text-align: center;
+  opacity: 0.8;
+  border-radius: 10px;
+}
+
+.img {
+  width: 340px;
+  height: 90px;
+  margin: 10px;
+}
+
+:root {
+    --bg: black;
+    --color: #9BD248;
+    --font: Montserrat, Roboto, Helvetica, Arial, sans-serif;
+}
+
+.wrapper {
+    padding: 1.5rem 0;
+    filter: url('#goo');
+}
+
+.button {
+    display: inline-block;
+    text-align: center;
+    background: var(--color);
+    color: var(--bg);
+    font-weight: bold;
+    padding: 1.18em 1.32em 1.03em;
+    line-height: 1;
+    border-radius: 1em;
+    position: relative;
+    width: 15.23em;
+    text-decoration: none;
+    font-family: var(--font);
+    font-size: 1.25rem;
+    margin-top: 250px;
+}
+
+.txt_post{
+  margin-top: -200px;
+  font-size: 15px;
+}
