@@ -1,6 +1,6 @@
 <?php
 session_start();
-
+<h1> Modifique esta parte</h1>
 if(isset($_SESSION['usr_id'])) {
 	header("Location: index.php");
 }
