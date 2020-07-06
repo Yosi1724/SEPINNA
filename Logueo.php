@@ -32,7 +32,7 @@ if (isset($_POST['login'])) {
 			
 			header("Location: index.php");
 		}else
-		$errormsg = "Esta cuenta esta desactivada";
+		$errormsg = "Esta cuenta esta desactivada o no existe";
 	} else {
 		$errormsg = "Revisa los datos!!!";
 	}
