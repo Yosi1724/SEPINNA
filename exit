@@ -1,0 +1,164 @@
+[33mcommit b88af78c60253da76995abaa70806c0b1b2d964b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Yosijaki <yosialbino24@gmail.com>
+Date:   Sun Jul 5 23:33:15 2020 -0500
+
+    Agregue en el modulo de derechos 7 derechos pero aun falta darle estilo para el diseño
+
+[33mcommit 94e6578ba95f9a96c3ff85843fc6582f7c4bbdf7[m
+Merge: 2d894d7 1ba9581
+Author: Yosijaki <yosialbino24@gmail.com>
+Date:   Sun Jul 5 22:52:08 2020 -0500
+
+    Merge branch 'master' of https://github.com/Yosi1724/SEPINNA
+
+[33mcommit 2d894d799cca73255750f52d2729da2ea39f6977[m
+Author: Yosijaki <yosialbino24@gmail.com>
+Date:   Sun Jul 5 22:01:25 2020 -0500
+
+    Cree el modulo de Derechos y agregue alguna descripcion e imagenes
+
+[33mcommit 1ba958186e4fbc69781258161c5cbe88722d4c2d[m
+Author: Lupita <reyesquintanarlupita@gmail.com>
+Date:   Sat Jun 27 08:47:03 2020 -0500
+
+    Cambios echo por el colaborador
+
+[33mcommit 48ebd4e48907f9157a9fe49c1803670f5fb38499[m
+Merge: 2b108e1 a665bc4
+Author: Yosi1724 <65307465+Yosi1724@users.noreply.github.com>
+Date:   Sat Jun 20 10:24:56 2020 -0500
+
+    Merge pull request #2 from sandra110316/master
+    
+    Realice el archivo index.php
+
+[33mcommit 2b108e1087e5621eca3349a6b626fd68b399c262[m
+Author: Yosi1724 <65307465+Yosi1724@users.noreply.github.com>
+Date:   Sat Jun 20 10:18:47 2020 -0500
+
+    Corregi una ortografia
+
+[33mcommit a665bc434e4b950c8133239990c0e94810db02b9[m
+Author: Sandra <65307446+sandra110316@users.noreply.github.com>
+Date:   Sat Jun 20 10:15:16 2020 -0500
+
+    Realice el archivo index.php
+    
+    Para el proyecto de SEPINNA cree el index
+
+[33mcommit b5bc656d2db4fc00cb44b919b373e6d79726ebf3[m
+Author: Yosi1724 <65307465+Yosi1724@users.noreply.github.com>
+Date:   Sat Jun 20 09:35:40 2020 -0500
+
+    Cree el archivo de prueba de los usuarios
+    
+    Lo realiza desde aqui porque sali de mi casa y tardare tiempo en yegar. Buen dia a todos
+
+[33mcommit 01045489dd518a228d0aab30854a83aa49886ffc[m
+Merge: 1715998 1f8d78a
+Author: Yosi1724 <65307465+Yosi1724@users.noreply.github.com>
+Date:   Sat Jun 20 09:13:19 2020 -0500
+
+    Merge pull request #1 from Lupita-REY/master
+    
+    Modifique el archivo de institucion.php
+
+[33mcommit 1f8d78a528f6346d31c9679bf8add3c9ad7e8039[m
+Author: Lupita-REY <65307470+Lupita-REY@users.noreply.github.com>
+Date:   Sat Jun 20 09:04:46 2020 -0500
+
+    Modifique el archivo de institucion.php
+    
+    Agregue u h1
+
+[33mcommit 1715998474a162c89e9f5ff363cb7efebb2e1cc0[m
+Author: Yosijaki <yosialbino24@gmail.com>
+Date:   Sat Jun 20 00:48:53 2020 -0500
+
+    Modifique el logueo en la escritura
+
+[33mcommit 0559383109d5bd5414a1113cc49de918031ce33a[m
+Author: Yosijaki <yosialbino24@gmail.com>
+Date:   Sat Jun 13 11:10:11 2020 -0500
+
+    Cambiamos el nombre de pagina_feature.php
+
+[33mcommit b853693796d08e9220a0cfbecd5bccf186322ae8[m
+Merge: 1032528 6edbabf
+Author: Yosijaki <yosialbino24@gmail.com>
+Date:   Sat Jun 13 10:44:02 2020 -0500
+
+    Merge branch 'feature'
+
+[33mcommit 1032528a29f23d37d29b29a7a38d79f8d7a83e62[m
+Merge: ef7b373 d23be3b
+Author: Yosijaki <yosialbino24@gmail.com>
+Date:   Sat Jun 13 10:43:45 2020 -0500
+
+    Agregue y borre un release
+
+[33mcommit ef7b373a13b94dcfca78852cdb67931a5fd8472f[m
+Author: Yosijaki <yosialbino24@gmail.com>
+Date:   Sat Jun 13 10:28:57 2020 -0500
+
+    Agregamos la primer pagina al master
+
+[33mcommit 6edbabf0282c8abc0c796751e8b05368ef24844f[m
+Author: Yosijaki <yosialbino24@gmail.com>
+Date:   Sat Jun 13 10:18:09 2020 -0500
+
+    Es la pagina de feature
+
+[33mcommit 9c40e14d884d640c78d89b5f5b61fe3105ad3d34[m
+Author: Yosijaki <yosialbino24@gmail.com>
+Date:   Sat Jun 13 10:10:04 2020 -0500
+
+    Editamos el index en la rama master
+
+[33mcommit d23be3b8ffd05ef630c3b867e6a410e859a43101[m
+Author: Yosijaki <yosialbino24@gmail.com>
+Date:   Sat Jun 13 09:56:31 2020 -0500
+
+    Agregamos mas texto en el arrafo
+
+[33mcommit 358c6ba45538c1ff43012c8c6ba99d01adb2fc36[m
+Author: Yosijaki <yosialbino24@gmail.com>
+Date:   Sat Jun 13 09:37:01 2020 -0500
+
+    Editamos la rama en master
+
+[33mcommit e4930ef737cca40b1c636ffe7eed3f67465d3b8e[m
+Author: Yosijaki <yosialbino24@gmail.com>
+Date:   Sat Jun 13 09:26:38 2020 -0500
+
+    Editamos el primer parrafo en release
+
+[33mcommit b6773aedf7cd39bc4ca6959e04656e7815c91dda[m
+Author: Yosijaki <yosialbino24@gmail.com>
+Date:   Sat Jun 13 09:23:14 2020 -0500
+
+    Primer commit del release
+
+[33mcommit 53bc44d590a8aee65ea4324ec88a2f87cdcd85a6[m
+Author: Yosijaki <yosialbino24@gmail.com>
+Date:   Mon Jun 8 19:10:27 2020 -0500
+
+    Cambie el nombre de login.php a Logueo.php
+
+[33mcommit 8fa8c98154451a1ecdf124c3744ccc3b714313ed[m
+Author: Yosijaki <yosialbino24@gmail.com>
+Date:   Mon Jun 8 18:51:33 2020 -0500
+
+    Editamos el nombre en el Index.html
+
+[33mcommit 71cf4cbec393d78f4e4143291a443a3a742b897e[m
+Author: Yosijaki <yosialbino24@gmail.com>
+Date:   Mon Jun 8 16:45:57 2020 -0500
+
+    Agregamos una pagina conferencias.php
+
+[33mcommit 8a8dae054a72954fd0571b8492e431d8a2e0863a[m
+Author: Yosijaki <yosialbino24@gmail.com>
+Date:   Mon Jun 8 16:34:56 2020 -0500
+
+    Agregamos los archivos faltantes al git
