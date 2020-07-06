@@ -56,6 +56,54 @@
 
 </div>
 
+<div id="contenedor">
+
+	
+	<h2 style="text-align: justify; font-size: 15px;">l. Derecho a la vida, a la supervivencia y al desarrollo</h2>
+
+	<h3 style="text-align: justify;font-size: 12px;"> Las niñas, niños y adolescentes tienen derecho a que se proteja su vida, su supervivencia, su dignidad y a que se garantice su desarrollo integral. No pueden ser privados de la vida bajo ninguna circunstancia. </h3>
+
+
+	<h2 style="text-align: justify; font-size: 15px;">ll. Derecho de prioridad</h2>
+
+	<h3 style="text-align: justify;font-size: 12px;"> Niñas, niños y adolescentes tienen derecho a que se les asegure de manera prioritaria (antes que a los adultos) el ejercicio pleno de todos sus derechos, para tal efecto siempre se considerará su interés superior. </h3>
+
+
+
+	<h2 style="text-align: justify; font-size: 15px;">lll. Derecho a la identidad</h2>
+
+	<h3 style="text-align: justify;font-size: 12px;"> Niñas, niños y adolescentes deben contar con nombre y apellidos, ser inscritos en el registro civil de forma inmediata y gratuita, y se les deberá expedir en forma ágil y sin costo la primera copia certificada de su acta de nacimiento. Siempre que se solicite un cambio de apellidos, tendrán derecho a opinar y a ser tomados en cuenta. La falta de documentación para acreditar su identidad nunca será obstáculo para garantizar sus derechos.
+
+    Deberán contar con nacionalidad; en la medida de lo posible conocer su origen, a efecto de preservar su identidad, pertenencia cultura y relaciones familiares. </h3>
+
+
+    <h2 style="text-align: justify; font-size: 15px;">lV. Derecho a vivir en familia</h2>
+
+	<h3 style="text-align: justify;font-size: 12px;"> Todas las niñas, niños y adolescentes, tienen derecho a vivir en una familia y no podrán ser separados de ella por falta de recursos para su subsistencia, tampoco podrán ser separados de las personas que los tengan bajo su guarda y custodia, sino por orden de autoridad competente y mediante un debido proceso en el que haya sido tomada en cuenta su opinión y su interés superior. Su institucionalización deberá ser el último recurso que adopte el Estado mexicano para la protección de sus derechos.
+
+    Niñas, niños y adolescentes tienen derecho a convivir con su madre y padre, así como con las familias de aquéllos (incluso cuando algún integrante se encuentre privado de su libertad) en un ambiente libre de violencia, excepto cuando ese derecho sea limitado por autoridad competente en atención a su interés superior.</h3>
+
+
+
+    <h2 style="text-align: justify; font-size: 15px;">V. Derecho a la igualdad sustantiva</h2>
+
+	<h3 style="text-align: justify;font-size: 12px;"> Niñas, niños y adolescentes tienen derecho a que se les proporcione un mismo trato y a la igualdad de oportunidades, tomando en consideración sus necesidades específicas para el ejercicio pleno de sus derechos. </h3>
+
+
+    <h2 style="text-align: justify; font-size: 15px;">Vl. Derecho a no ser discriminado</h2>
+
+	<h3 style="text-align: justify;font-size: 12px;">Niñas, niños y adolescentes tienen derecho a un trato igualitario, nadie puede limitar o restringir sus derechos por su origen étnico, nacional o social, idioma o lengua, edad, género, preferencia sexual, estado civil, religión, opinión, condición económica, circunstancias de nacimiento, discapacidad o estado de salud o cualquier otra condición atribuible a ellos mismos o a su madre, padre, tutor o persona que los tenga bajo guarda y custodia, o a otros miembros de su familia.
+
+    Para garantizar este derecho se deberán tomar en cuenta las necesidades específicas de cada niña, niño y adolescente de manera individual o en grupo, según sea el caso. </h3>
+
+    <h2 style="text-align: justify; font-size: 15px;">Vll. Derecho a vivir en condiciones de bienestar y a un sano desarrollo integral </h2>
+
+	<h3 style="text-align: justify;font-size: 12px;"> Niñas, niños y adolescentes tienen derecho a vivir en un medio ambiente sano y sustentable, y en condiciones que permitan su desarrollo, bienestar, crecimiento saludable y armonioso, tanto físico como mental, material, espiritual, ético, cultural y social. </h3>
+
+
+
+</div>
+
 <svg style="visibility: hidden; position: absolute;" width="0" height="0" xmlns="http://www.w3.org/2000/svg" version="1.1">
     <defs>
         <filter id="goo"><feGaussianBlur in="SourceGraphic" stdDeviation="10" result="blur" />    
