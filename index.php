@@ -5,7 +5,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>COMISON EJECUTIVA DE LOS DERECHOS DE LOS NIÑOS, NIÑAS Y ADOLESCENTES DEL ESTADO DE MICHOACAN</title>
+	<title>COMISIÓN EJECUTIVA DE LOS DERECHOS DE LOS NIÑOS, NIÑAS Y ADOLESCENTES DEL ESTADO DE MICHOACAN</title>
 	<meta content="width=device-width, initial-scale=1.0" name="viewport" >
 	<link rel="stylesheet" href="Css/margenes.css" type="text/css" />
 	<link rel="stylesheet" href="Css/bootstrap.min.css" type="text/css" />
@@ -21,7 +21,7 @@
 	<div class="container-fluid">
 		<div class="navbar-header">
 			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar1">
-				<span class="sr-only">Navegacion derechos</span>
+				<span class="sr-only">Navegación derechos</span>
 				<span class="icon-bar"></span>
 			</button>
 			<a class="navbar-brand" href="index.php">Secretaría Ejecutiva del Sistema Estatal de Protección Integral de Niñas, Niños y Adolecentes del estado de Michoacán</a>
@@ -45,7 +45,7 @@
 
 <div id="contenedor">
 	<h4>Inicio de Sesión</h4>
-	<img src="Imagenes/Inicio/Derechos.png" width="200" height="200">
+	<img src="Imagenes/Inicio/Leyendo.jpg" width="200" height="200">
 	<h5 style="text-align: justify; font-size: 14px; margin-right: 16px; margin-left: 17px;">El niño debe disfrutar de todos los derechos sin importar su sexo, nacionalidad, raza, religión, idioma, en esta página aprenderas sobre los derechos de los niñas, niños y adolecentes.</h5>
 	<img src="Imagenes/Inicio/Icono.jpg" width="200" height="100" style="margin-top: 70px;">
 	<button class="button" style="margin-top: -13px">Página de Inicio</button>

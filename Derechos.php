@@ -100,7 +100,38 @@
 
 	<h3 style="text-align: justify;font-size: 12px;"> Niñas, niños y adolescentes tienen derecho a vivir en un medio ambiente sano y sustentable, y en condiciones que permitan su desarrollo, bienestar, crecimiento saludable y armonioso, tanto físico como mental, material, espiritual, ético, cultural y social. </h3>
 
+	<h2 style="text-align: justify; font-size: 15px;">V.III Derecho a una vida libre de violencia y a la integridad personal </h2>
 
+	<h3 style="text-align: justify;font-size: 12px;"> Niñas, niños y adolescentes tienen derecho a vivir una vida libre de toda forma de violencia y a que se resguarde su integridad personal, a fin de lograr las mejores condiciones de bienestar y el libre desarrollo de su personalidad. </h3>
+
+	<h2 style="text-align: justify; font-size: 15px;">I.X Derecho a la protección de la salud y a la seguridad social.</h2>
+
+	<h3 style="text-align: justify;font-size: 12px;"> Niñas, niños y adolescentes tienen derecho a disfrutar del más alto nivel posible de salud, así como a recibir la prestación de servicios de atención médica gratuita y de calidad, con el fin de prevenir, proteger y restaurar su salud, así como a su seguridad social, que permita hacer efectivo su derecho de prioridad, su interés superior, igualdad sustantiva y no discriminación. </h3>
+
+	<h2 style="text-align: justify; font-size: 15px;">X. Derecho a la inclusión de niñas, niños y adolescentes con discapacidad.</h2>
+
+	<h3 style="text-align: justify;font-size: 12px;"> Niñas, niños y adolescentes con discapacidad deben ejercer plenamente todos y cada uno de sus derechos contenidos en la Constitución Política de los Estado Unidos Mexicanos, Tratados Internacionales y demás leyes aplicables, considerando sus propias necesidades. </h3>
+
+	<h2 style="text-align: justify; font-size: 15px;">XI. Derecho a la educación.</h2>
+
+	<h3 style="text-align: justify;font-size: 12px;"> Niñas, niños y adolescentes tienen derecho a una educación de calidad que contribuya al conocimiento de sus propios derechos y, basada en un enfoque de derechos humanos atendiendo a sus propias necesidades, que garantice el respeto a su dignidad humana; el desarrollo armónico de sus potencialidades y personalidad, y fortalezca el respeto a los derechos humanos y a las libertades fundamentales, en los términos del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación y demás ordenamientos aplicables. </h3>
+
+	<h2 style="text-align: justify; font-size: 15px;">XII. Derecho al descanso y al esparcimiento.</h2>
+
+	<h3 style="text-align: justify;font-size: 12px;"> Niñas, niños y adolescentes tienen derecho al descanso, al esparcimiento, al juego y a las actividades recreativas propias de su edad, así como a participar libremente en actividades culturales, deportivas y artísticas, como factores primordiales de su desarrollo y crecimiento.</h3>
+
+	<h2 style="text-align: justify; font-size: 15px;">XIII. Derecho a la libertad de convicciones éticas, pensamiento, conciencia, religión y cultura</h2>
+
+	<h3 style="text-align: justify;font-size: 12px;"> Niñas, niños y adolescentes tienen derecho a la libertad de convicciones éticas, pensamiento, conciencia, religión y cultura, no podrán ser discriminados por ejercer estas libertades.</h3>
+
+	<h2 style="text-align: justify; font-size: 15px;">XIV. Derecho a la libertad de expresión y de acceso a la información.</h2>
+
+	<h3 style="text-align: justify;font-size: 12px;"> Niñas, niños y adolescentes tienen derecho a expresar libremente su opinión, así como a buscar, recibir y difundir información e ideas de todo tipo y por cualquier medio, sin más limitaciones que las establecidas en el artículo 6o. de la Constitución Política de los Estados Unidos Mexicanos.</h3>
+
+	<h2 style="text-align: justify; font-size: 15px;">XV. Derecho de participación.</h2>
+
+	<h3 style="text-align: justify;font-size: 12px;"> Niñas, niños y adolescentes tienen derecho a ser escuchados y tomados en cuenta en los asuntos de su interés, conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez. También deberán ser escuchados y tomados en cuenta en todos los procesos judiciales y de procuración de justicia donde se diriman controversias que les afectan.
+	</h3>
 
 </div>
 
