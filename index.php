@@ -5,11 +5,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-<<<<<<< HEAD
+
 	<title>COMISON EJECUTIVA DE LOS DERECHOS DE LOS NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACAN</title>
-=======
-	<title>COMISIÓN EJECUTIVA DE LOS DERECHOS DE LOS NIÑOS, NIÑAS Y ADOLESCENTES DEL ESTADO DE MICHOACAN</title>
->>>>>>> beebd2d73a6c8adbb8c65078dd4be11f79becd60
+
 	<meta content="width=device-width, initial-scale=1.0" name="viewport" >
 	<link rel="stylesheet" href="Css/margenes.css" type="text/css" />
 	<link rel="stylesheet" href="Css/bootstrap.min.css" type="text/css" />
