@@ -133,6 +133,9 @@
 	<h3 style="text-align: justify;font-size: 12px;"> Niñas, niños y adolescentes tienen derecho a ser escuchados y tomados en cuenta en los asuntos de su interés, conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez. También deberán ser escuchados y tomados en cuenta en todos los procesos judiciales y de procuración de justicia donde se diriman controversias que les afectan.
 	</h3>
 
+	<h2 style="text-align: justify; font-size: 15px;">XVI. Derecho de libre expresion</h2>
+
+
 </div>
 
 <svg style="visibility: hidden; position: absolute;" width="0" height="0" xmlns="http://www.w3.org/2000/svg" version="1.1">
