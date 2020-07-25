@@ -5,7 +5,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>DERECHOS DE LOS NIÑOS, NIÑAS Y ADOLESCENTES DEL ESTADO DE MICHOACÀN</title>
+	<title>DERECHOS DE LOS NIÑOS, NIÑAS Y ADOLESCENTES DEL ESTADO DE MICHOACÀN SEPINNA</title>
 	<meta content="width=device-width, initial-scale=1.0" name="viewport" >
 	<link rel="stylesheet" href="Css/margenes.css" type="text/css" />
 	<link rel="stylesheet" href="Css/bootstrap.min.css" type="text/css" />
