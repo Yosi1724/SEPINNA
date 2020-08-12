@@ -106,6 +106,7 @@ if (isset($_POST['signup'])) {
 <html>
 <head>
 	<title>Institución Educativa</title>
+	<p> Este modulo es para que las instituciones puedan agendar una conferencia en su institucion </p>
 	<meta content="width=device-width, initial-scale=1.0" name="viewport" >
 	<link rel="stylesheet" href="Css/margenes.css" type="text/css" />
 	<link rel="stylesheet" href="Css/bootstrap.min.css" type="text/css" />

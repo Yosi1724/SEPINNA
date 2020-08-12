@@ -5,7 +5,13 @@
 <!DOCTYPE html>
 <html>
 <head>
+<<<<<<< HEAD
 	<title> EJECUTIVA DE LOS DERECHOS DE LOS NIÑOS, NIÑAS Y ADOLESCENTES DEL ESTADO DE MICHOACAN sepinna</title>
+=======
+
+	<title>COMISON EJECUTIVA DE LOS DERECHOS DE LOS NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACAN</title>
+
+>>>>>>> 1a3fee04cd64761cb7f4a4f1f3f77db057655454
 	<meta content="width=device-width, initial-scale=1.0" name="viewport" >
 	<link rel="stylesheet" href="Css/margenes.css" type="text/css" />
 	<link rel="stylesheet" href="Css/bootstrap.min.css" type="text/css" />
