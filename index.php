@@ -24,7 +24,7 @@
 				<span class="sr-only">Navegación derechos</span>
 				<span class="icon-bar"></span>
 			</button>
-			<a class="navbar-brand" href="index.php">Secretaría Ejecutiva del Sistema Estatal de Protección Integral de Niñas, Niños y Adolecentes del estado de Michoacán</a>
+			<a class="navbar-brand" href="index.php">SEPINNA</a>
 		</div>
 		
 		<div class="collapse navbar-collapse" id="navbar1">
