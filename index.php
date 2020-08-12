@@ -1,22 +1,10 @@
-<?php
-	session_start();
-	include_once 'dbconnect.php';
-?>
-<!DOCTYPE html>
 <html>
 <head>
-	<title>COMISIÓN EJECUTIVA DE LOS DERECHOS DE LOS NIÑOS, NIÑAS Y ADOLESCENTES DEL ESTADO DE MICHOACAN</title>
-	<meta content="width=device-width, initial-scale=1.0" name="viewport" >
-	<link rel="stylesheet" href="Css/margenes.css" type="text/css" />
-	<link rel="stylesheet" href="Css/bootstrap.min.css" type="text/css" />
-	<link rel="stylesheet" href="css/.css" type="text/css" />
 
-    <link rel="icon" href="/Imagenes/Gobierno/Logo-Silvano.png"  type="image/png" />
-	<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
-
-</head>
 <body>
+<h1>Soy tic</h1>
 
+<<<<<<< HEAD
 <nav class="navbar navbar-default" role="navigation">
 	<div class="container-fluid">
 		<div class="navbar-header">
@@ -69,5 +57,8 @@
 
 <script src="js/jquery-1.10.2.js"></script>
 <script src="js/bootstrap.min.js"></script>
+=======
+>>>>>>> b8338798cf4fa1a04250c12489d1e30c0271d482
 </body>
+</head>
 </html>
